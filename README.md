@@ -12,6 +12,6 @@ Final project for my Knowledge Discovery and Data Mining Course. Focus is on sur
 My thanks to Temple University's Center for Data Analytics and Biomedical Informatics:
 * Dr. Branimir Ljubic for proposing this project and his medical knowledge.
 * [Martin Pavlovski](http://www.cs.manu.edu.mk/people/students/martin-pavlovski) for getting me off the ground in terms of working with datasets in Python.
-* [Marija Stanojevic](https://marija-stanojevic.github.io/) and [Ameen Abdel Hai](https://ameenabdelhai.net/) for the code I based the DeepSurv model preprocessing on.
+* [Marija Stanojevic](https://marija-stanojevic.github.io/) and [Ameen Abdel Hai](https://ameenabdelhai.net/) for the code I based the classification models on.
 * Dr. Zoran Obradovic for teaching this course and giving me the chance to participate in his lab.
 

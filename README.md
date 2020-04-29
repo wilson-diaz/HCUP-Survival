@@ -1,6 +1,6 @@
 # HCUP-Survival
 
-Final project for my Knowledge Discovery and Data Mining Course. Focus is on survival analysis of atrial fibrillation patients with regard to development of certain complications, specifically stroke, heart failure, and cardiomyopathy. I implement the lifelines and scikit-survival Python libraries. Also included are the scripts I wrote to preprocess the data into the proper format.
+Final project for my Knowledge Discovery and Data Mining Course. Focus is on survival analysis of atrial fibrillation patients with regard to development of certain complications, specifically stroke, heart failure, and cardiomyopathy. This is my first time trying survival analysis in preparation for a larger future project. I implement the lifelines and scikit-survival Python libraries. Also included are the scripts I wrote to preprocess the data into the proper format.
 
 ## Built With
 
